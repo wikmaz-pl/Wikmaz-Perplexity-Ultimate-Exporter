@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/acdhhkoomfgimeidaplkejmobomichhj.svg?label=Chrome%20Web%20Store&color=blue)](https://chrome.google.com/webstore/detail/acdhhkoomfgimeidaplkejmobomichhj)
+[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/pl/firefox/addon/wikmaz-perplexity-export/)
 
 A powerful, 100% private Google Chrome extension built for AI engineers, researchers, and RAG enthusiasts. Export your entire Perplexity.ai chat history to clean, formatted Markdown (`.md`) files with a single click.
 
